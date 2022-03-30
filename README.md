@@ -2,7 +2,7 @@
 
 #### A fun project I did with NOAA weather data
 
-When running these scripts, run them in the following order:
+When running these scripts, run them in the following order in MariaDB:
 
 
 1). create_tables.sql  
